@@ -1,0 +1,19 @@
+{
+  "geode": "5.11.2",
+  "gd": {
+    "win": "2.2081"
+  },
+  "id": "guillotine.menu_music",
+  "name": "Menu Music Player",
+  "version": "1.0.0",
+  "developer": "Guillotine",
+  "description": "A menu music playlist with previous, next, shuffle, local import and direct HTTPS downloads.",
+  "tags": [
+    "music",
+    "interface",
+    "customization"
+  ],
+  "dependencies": {
+    "geode.node-ids": ">=v1.23.3"
+  }
+}
